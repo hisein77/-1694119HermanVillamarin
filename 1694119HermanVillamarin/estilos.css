@@ -1,0 +1,49 @@
+header {
+font-family: 'Dancing Script', cursive;
+background: #5b7989;
+color:#02010A;
+	}
+	
+
+.filtroblur {
+filter: blur(10px);
+}
+
+.filtrogrises {
+filter: grayscale(100%); 
+}
+
+.filtrosepia{
+filter: sepia(90%);
+}
+
+.color1 {
+background: #82c3a6;
+}
+
+.color2 {
+background: #d5c75f;
+}
+
+.color3 {
+background: black;
+}
+
+.color4{
+background: white;
+}
+
+.rotar{
+	transform: rotate(10deg);
+}
+
+
+body{
+font-family:'Dancing Script', cursive;	
+}
+
+footer {
+font-family:'Dancing Script', cursive;
+background: #C6d5c5;
+color:black;
+}
